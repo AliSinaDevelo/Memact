@@ -1,2 +1,2 @@
 # Memact
-Memact is any tool to create memes, powered by React. (Yes, seriously)
+Memact is a tool to seamlessly create memes, powered by React. (Yes, seriously)
